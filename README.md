@@ -20,4 +20,3 @@ Understanding and implementing CRUD operations are essential for building functi
 
 To implement CRUD operations in your project, refer to the documentation and code examples provided in this repository. Explore the various functionalities and adapt them to suit the requirements of your application.
 
-Feel free to modify the text according to your specific needs or add any additional details about your project.
